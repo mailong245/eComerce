@@ -1,0 +1,7 @@
+[INFO ] 2020-06-10 16:36:09.192 [main] EcomerceApplication - Starting EcomerceApplication on VTT-OS_LONGMT with PID 19932 (E:\SPRING_PROJECT\ecomerce\target\classes started by os_longmt in E:\SPRING_PROJECT\ecomerce)
+[DEBUG] 2020-06-10 16:36:09.197 [main] EcomerceApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+[INFO ] 2020-06-10 16:36:09.197 [main] EcomerceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-06-10 16:36:10.966 [main] EcomerceApplication - Started EcomerceApplication in 1.975 seconds (JVM running for 2.92)
+[INFO ] 2020-06-10 16:36:11.345 [http-nio-8080-exec-1] HelloController - LOGGER SAY HELLO
+[INFO ] 2020-06-10 16:36:11.359 [http-nio-8080-exec-1] HelloApi - name: long
+[INFO ] 2020-06-10 16:36:11.444 [http-nio-8080-exec-1] HelloApi - Student{id=1.0, name='long', grade='10', point='8'}
