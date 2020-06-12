@@ -21,6 +21,8 @@ public class HelloController {
     public String Hello() {
         logger.info("LOGGER SAY HELLO");
 
+        System.out.println("Hello");
+
         return "HelloApi?name=long";
     }
 
